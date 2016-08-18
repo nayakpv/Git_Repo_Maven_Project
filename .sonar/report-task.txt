@@ -1,0 +1,5 @@
+projectKey=my:mymavenproject
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/my:mymavenproject
+ceTaskId=AVaZrof63-CQAElBnz_B
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVaZrof63-CQAElBnz_B
